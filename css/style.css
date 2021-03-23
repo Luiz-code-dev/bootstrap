@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.navbar {
+    background-color: rgb(65, 160, 65);
+}
+
+.quem-somos {
+    background-color: #045FB4;
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+#quemsomos{
+    text-shadow: rgb(27, 26, 26) 5px 8px 5px;
+}
+
+.parceiros{
+    background-color: #086A87;
+    text-shadow: #000c16 5px 8px 5px;
+}
+
+.textos{
+    color: #4C0B5F;
+    font-size: 35px;
+    text-shadow: #4C0B5F 5px 8px 5px;
+}
+
+.servicos{
+    color: #4C0B5F;
+    font-size: medium;
+    text-shadow: #000c16 5px 8px 5px;
+}
+
+p {
+    color: white;
+    font-size: small;
+}
+
+.paragrafo-service{
+    color: black;
+    font-size: medium;
+}
+
+.figuras{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.bg-footer{
+    background-color: black;
+}
